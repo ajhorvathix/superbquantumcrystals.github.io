@@ -6,8 +6,8 @@ $(document).ready(function(){
     $('#typedJS').typed({
       strings: [
       "Hello there",
-      "I'm Alex",
-      "check me out below.",
+      "Welcome to Quantum Crystals LLC",
+      "check out our portfolio below.",
       ],
       typeSpeed: 60,
       backSpeed: 30,

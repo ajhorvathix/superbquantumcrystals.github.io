@@ -6,7 +6,7 @@ $(document).ready(function(){
     $('#typedJS').typed({
       strings: [
       "Hello there",
-      "Welcome to my Personal Page",
+      "Welcome to my personal website",
       "check out my portfolio below.",
       ],
       typeSpeed: 60,

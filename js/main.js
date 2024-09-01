@@ -5,8 +5,8 @@ $(document).ready(function(){
     console.log("js is (t)werking");
     $('#typedJS').typed({
       strings: [
-      "Advanced materials available for purchase",
-      "See catalog / order below",
+      "Producing Advanced materials ",
+      "Accepting requests",
       "fulfilled by Quantum Crystals LLC.",
       ],
       typeSpeed: 60,

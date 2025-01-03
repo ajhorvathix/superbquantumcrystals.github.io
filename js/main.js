@@ -1,3 +1,7 @@
+$(document).ready(function(){
+  $('.nojs').hide(); 
+
+  $(function() {
     console.log("js is (t)werking");
     $('#typedJS').typed({
       strings: [
